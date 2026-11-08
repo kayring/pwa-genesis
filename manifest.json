@@ -1,0 +1,20 @@
+{
+  "name": "Kayrin Genesis",
+  "short_name": "Genesis",
+  "start_url": "/?m=1",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://Kayring.github.io/pwa-genesis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://Kayring.github.io/pwa-genesis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
